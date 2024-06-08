@@ -1,2 +1,5 @@
 # Instagram-Clone
-QuickDBD is used to visualise the relationship between database objects. MySQL is used for query retrieval.
+Designed an Instagram database clone using QuickDBD to visualise and establish relationships between database objects, ensuring a comprehensive data schema.
+Implemented the database in MySQL, facilitating efficient data storage and retrieval. 
+Conducted query operations to simulate core Instagram functionalities such as user management, posts, likes, and comments.
+
